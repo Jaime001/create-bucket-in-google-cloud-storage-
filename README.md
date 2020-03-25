@@ -2,11 +2,11 @@
 
 Guide to create a bucket step by step in google cloud to store files
 
-### Let’s start
+## Let’s start
 
 Visit the webpage [google cloud](https://cloud.google.com/) and create an account. When you create the account follow the next steps.
 
-### Step 1: Create bucket
+## Step 1: Create bucket
 
 - #### *Go to storage and click in +create bucket*
 
@@ -31,11 +31,11 @@ Visit the webpage [google cloud](https://cloud.google.com/) and create an accoun
 
 ![image](screenshots/AdvancedSettings.png)
 
-#### Bucket Created:
+### Bucket Created:
 
 ![image](screenshots/bucketCreteed.png)
 
-### Step 2: Create the credentials
+## Step 2: Create the credentials
 
 - #### Go to API's & Services
 
