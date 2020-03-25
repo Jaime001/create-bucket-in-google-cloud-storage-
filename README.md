@@ -1,6 +1,6 @@
 # How to create a bucket in google cloud storage?
 
-Visit the webpage [google.cloud](https://cloud.google.com/) and create and account. 
+Visit the webpage [google.cloud](https://cloud.google.com/) and create an account. 
 
 
 
@@ -32,7 +32,7 @@ Visit the webpage [google.cloud](https://cloud.google.com/) and create and accou
 
 ####Bucket Created:
 
-![image](screenshots/Bucketcreteed.png)
+![image](screenshots/BucketCreteed.png)
 
 ### Step 2: Create the credentials
 
