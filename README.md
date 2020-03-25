@@ -16,13 +16,23 @@ Visit the webpage [google.cloud](https://cloud.google.com/) and create and accou
 
 - **Choose where to store your data**
 
-![image](screenshots/BucketName.png)
+![image](screenshots/Data.png)
 
 - **Choose a default storage class for your data**
 
+![image](screenshots/StorageClass.png)
+
 - **Choose how to control access to objects**
 
+![image](screenshots/ChooseHow.png)
+
 - **Advanced settings (optional)**
+
+![image](screenshots/AdvancedSettings.png)
+
+####Bucket Created:
+
+![image](screenshots/Bucketcreteed.png)
 
 ### Step 2: Create the credentials
 
